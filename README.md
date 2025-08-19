@@ -17,10 +17,9 @@ A aplicação possui dois tipos de usuários:
 - **Usuário comum:** pode apenas visualizar as informações disponíveis.
 
 ## 🛠️ Tecnologias Utilizadas
-- HTML, CSS, JavaScript
-- [Framework ou biblioteca, se houver — ex: React, Vue, etc.]
-- [Backend — ex: Node.js, Python Flask, etc.]
-- [Banco de dados — ex: Firebase, MongoDB, MySQL, etc.]
+- HTML, CSS, JavaScript, 
+- [Backend — PHP]
+- [Banco de dados — MySQL]
 
 ## 🚀 Como Executar o Projeto
 
